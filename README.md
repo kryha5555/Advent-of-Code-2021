@@ -3,7 +3,7 @@
 | Day                                                                                                                                         |  Part One  |    Part Two    |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :------------: |
 | ✔️ [Day 1: Sonar Sweep](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2001 "Day 1: Sonar Sweep")                           |    ⭐️     |      ⭐️       |
-| ❌ Day 2: ...                                                                                                                               | 🕕 Waiting |   🕕 Waiting   |
+| ✔️ [Day 2: Dive!](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2002 "Day 2: Dive!")                           |    ⭐️     |      ⭐️       |
 | ❌ Day 3: ...                                                                                                                               | 🕕 Waiting |   🕕 Waiting   |
 | ❌ Day 4: ...                                                                                                                               | 🕕 Waiting |   🕕 Waiting   |
 | ❌ Day 5: ...                                                                                                                               | 🕕 Waiting |   🕕 Waiting   |
