@@ -6,7 +6,7 @@
 | ✔️ [Day 2: Dive!](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2002 "Day 2: Dive!")                                       |    ⭐️     |      ⭐️       |
 | ✔️ [Day 3: Binary Diagnostic](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2003 "Day 3: Binary Diagnostic")               |    ⭐️     |      ⭐️       |
 | ✔️ [Day 4: Giant Squid](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2004 "Day 4: Giant Squid")                           |    ⭐️     |      ⭐️       |
-| ❌ Day 5: ...                                                                                                                               | 🕕 Waiting |   🕕 Waiting   |
+| ✔️ [Day 5: Hydrothermal Venture](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2005 "Day 5: Hydrothermal Venture")         |    ⭐️     |      ⭐️       |
 | ❌ Day 6: ...                                                                                                                               | 🕕 Waiting |   🕕 Waiting   |
 | ❌ Day 7: ...                                                                                                                               | 🕕 Waiting |   🕕 Waiting   |
 | ❌ Day 8: ...                                                                                                                               | 🕕 Waiting |   🕕 Waiting   |
