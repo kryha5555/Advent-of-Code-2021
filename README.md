@@ -11,7 +11,7 @@
 | ✔️ [Day 7: The Treachery of Whales ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2007 "Day 7: The Treachery of Whales")  |    ⭐️     |      ⭐️       |
 | ✔️ [Day 8: Seven Segment Search ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2008 "Day 8: Seven Segment Search")        |    ⭐️     |      ⭐️       |
 | ✔️ [Day 9: Smoke Basin ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2009 "Day 9: Smoke Basin")                          |    ⭐️     |      ⭐️       |
-| ❌ Day 10: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
+| ✔️ [Day 10: Syntax Scoring ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2010 "Day 10: Syntax Scoring")                  |    ⭐️     |      ⭐️       |
 | ❌ Day 11: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
 | ❌ Day 12: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
 | ❌ Day 13: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
