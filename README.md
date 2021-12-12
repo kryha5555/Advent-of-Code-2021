@@ -13,7 +13,7 @@
 | ✔️ [Day 9: Smoke Basin ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2009 "Day 9: Smoke Basin")                          |    ⭐️     |      ⭐️       |
 | ✔️ [Day 10: Syntax Scoring ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2010 "Day 10: Syntax Scoring")                  |    ⭐️     |      ⭐️       |
 | ✔️ [Day 11: Dumbo Octopus ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2011 "Day 11: Dumbo Octopus")                    |    ⭐️     |      ⭐️       |
-| ❌ Day 12: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
+| ✔️ [Day 12: Passage Pathing ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2012 "Day 12: Passage Pathing")                |    ⭐️     |      ⭐️       |
 | ❌ Day 13: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
 | ❌ Day 14: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
 | ❌ Day 15: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
