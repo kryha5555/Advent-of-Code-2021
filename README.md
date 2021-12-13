@@ -14,7 +14,7 @@
 | ✔️ [Day 10: Syntax Scoring ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2010 "Day 10: Syntax Scoring")                  |    ⭐️     |      ⭐️       |
 | ✔️ [Day 11: Dumbo Octopus ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2011 "Day 11: Dumbo Octopus")                    |    ⭐️     |      ⭐️       |
 | ✔️ [Day 12: Passage Pathing ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2012 "Day 12: Passage Pathing")                |    ⭐️     |      ⭐️       |
-| ❌ Day 13: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
+| ✔️ [Day 13: Transparent Origami ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2013 "Day 13: Transparent Origami")        |    ⭐️     |      ⭐️       |
 | ❌ Day 14: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
 | ❌ Day 15: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
 | ❌ Day 16: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
