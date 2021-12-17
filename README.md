@@ -18,7 +18,7 @@
 | ✔️ [Day 14: Extended Polymerization ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2014 "Day 14: Extended Polymerization")|    ⭐️     |      ⭐️       |
 | ✔️ [Day 15: Chiton ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2015 "Day 15: Chiton")                                  |    ⭐️     |      ⭐️       |
 | ✔️ [Day 16: Packet Decoder ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2016 "Day 16: Packet Decoder")                  |    ⭐️     |      ⭐️       |
-| ❌ Day 17: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
+| ✔️ [Day 17: Trick Shot ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2017 "Day 17: Trick Shot")                          |    ⭐️     |      ⭐️       |
 | ❌ Day 18: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
 | ❌ Day 19: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
 | ❌ Day 20: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
