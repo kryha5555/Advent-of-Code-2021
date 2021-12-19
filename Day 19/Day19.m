@@ -35,10 +35,7 @@ while ~isempty(unknownScanners)
         dst = pdist2(knownBeacons, beaconCopy); % distance between known beacons and current beacons
         if nnz(dst == mode(dst,'all')) >= 12 % if most common distance occurs >= 12 times
             [p,q] = find(dst == mode(dst,'all'),1); % find 1st occurence
-            relPos = [... % calculate relative position of scanner
-                knownBeacons(p,1) - sum(rot(:,1)) * currentBeacon(q, rot(:,1) ~= 0), ...
-                knownBeacons(p,2) - sum(rot(:,2)) * currentBeacon(q, rot(:,2) ~= 0), ...
-                knownBeacons(p,3) - sum(rot(:,3)) * currentBeacon(q, rot(:,3) ~= 0)];
+            relPos = knownBeacons(p,:) - currentBeacon(q,:) * rot;
             
             knownBeacons = [knownBeacons; beaconCopy + relPos]; % calculate position of beacons 
             knownBeacons = unique(knownBeacons,'rows'); % keep only unique beacons
