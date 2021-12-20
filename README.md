@@ -21,7 +21,7 @@
 | ✔️ [Day 17: Trick Shot ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2017 "Day 17: Trick Shot")                          |    ⭐️     |      ⭐️       |
 | ✔️ [Day 18: Snailfish ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2018 "Day 18: Snailfish")                            |    ⭐️     |      ⭐️       |
 | ✔️ [Day 19: Beacon Scanner ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2019 "Day 19: Beacon Scanner")         		  |    ⭐️     |      ⭐️       |
-| ❌ Day 20: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
+| ✔️ [Day 20: Trench Map ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2020 "Day 20: Trench Map")      	   			 	  |    ⭐️     |      ⭐️       |
 | ❌ Day 21: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
 | ❌ Day 22: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
 | ❌ Day 23: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
