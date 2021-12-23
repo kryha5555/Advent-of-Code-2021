@@ -24,6 +24,6 @@
 | ✔️ [Day 20: Trench Map ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2020 "Day 20: Trench Map")      	   			 	  |    ⭐️     |      ⭐️       |
 | ✔️ [Day 21: Dirac Dice ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2021 "Day 21: Dirac Dice")      	   			 	  |    ⭐️     |      ⭐️       |
 | ✔️ [Day 22: Reactor Reboot ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2022 "Day 22: Reactor Reboot")      	   	 	  |    ⭐️     |      ⭐️       |
-| ❌ Day 23: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
+| ✔️ [Day 23: Amphipod ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2023 "Day 23: Amphipod")      	   	            	  |    ⭐️     |      ⭐️       |
 | ❌ Day 24: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
 | ❌ Day 25: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
