@@ -26,4 +26,4 @@
 | ✔️ [Day 22: Reactor Reboot ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2022 "Day 22: Reactor Reboot")      	   	 	  |    ⭐️     |      ⭐️       |
 | ✔️ [Day 23: Amphipod ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2023 "Day 23: Amphipod")      	   	            	  |    ⭐️     |      ⭐️       |
 | ✔️ [Day 24: Arithmetic Logic Unit ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2024 "Day 24: Arithmetic Logic Unit")    |    ⭐️     |      ⭐️       |
-| ❌ Day 25: ...                                                                                                                              | 🕕 Waiting |   🕕 Waiting   |
+| ✔️ [Day 25: Sea Cucumber ](https://github.com/kryha5555/Advent-of-Code-2021/tree/main/Day%2025 "Day 25: Sea Cucumber")                      |    ⭐️     |      ⭐️       |
